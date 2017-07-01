@@ -1,4 +1,4 @@
-##Estrutura de diretórios para projetos Node.js
+## Estrutura de diretórios para projetos Node.js
 
 * lib/                 	 -> bibliotecas independentes
 * public/ 				 -> diretório para arquivos estáticos 

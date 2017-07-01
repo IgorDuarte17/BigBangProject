@@ -5,6 +5,6 @@ Arquitetura base para projetos
 
 ## PHP
 
-## AngularJS
-
-## Node.js
+## JavaScript
+- [AngularJS](AngularJS/README.md)
+- [Node.js](Node.js/README.md)

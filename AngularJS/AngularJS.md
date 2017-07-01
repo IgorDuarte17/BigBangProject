@@ -1,3 +1,5 @@
+##Estrutura de diretórios para projetos AngularJS
+
 * app/    		              -> arquivos da aplicação  
     + css/		              -> arquivos css  
     + js/ 		              -> componentes javascript da aplicação 

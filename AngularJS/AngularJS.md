@@ -1,4 +1,4 @@
-##Estrutura de diretórios para projetos AngularJS
+## Estrutura de diretórios para projetos AngularJS
 
 * app/    		              -> arquivos da aplicação  
     + css/		              -> arquivos css  

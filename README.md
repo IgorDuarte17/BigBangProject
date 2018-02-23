@@ -5,6 +5,7 @@ Arquitetura base para projetos
 - [WebAPI](CSharp/WebAPI.md)
 
 ## PHP
+- [PHP Estrutural](PHP/PHPEstrutural.md)
 
 ## JavaScript
 - [AngularJS](AngularJS/AngularJS.md)

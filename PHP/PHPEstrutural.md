@@ -1,4 +1,4 @@
-##Estrutura de diretórios para projetos PHP Estrutural
+## Estrutura de diretórios para projetos PHP Estrutural
 * bin/				     -> scripts de linha de comando
 * config/			     -> arquivos de configuração
 * docs/			         -> arquivos de documentação

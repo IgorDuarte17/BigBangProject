@@ -6,6 +6,7 @@ Arquitetura base para projetos
 
 ## PHP
 - [PHP Estrutural](PHP/PHPEstrutural.md)
+- [PHP Orientado a Objetos](PHP/PHPOO.md)
 
 ## JavaScript
 - [AngularJS](AngularJS/AngularJS.md)

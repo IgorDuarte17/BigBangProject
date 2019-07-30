@@ -11,3 +11,4 @@ Arquitetura base para projetos
 ## JavaScript
 - [AngularJS](AngularJS/AngularJS.md)
 - [Node.js](Node.js/Node.js.md)
+- [Vue.js](vue.js/vue.js.md)
